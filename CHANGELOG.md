@@ -1,5 +1,43 @@
 # Django Code of Conduct Documentation Change Log
 
+## 2026-03-16: Update the policy docs to align with Contributor Covenant 3
+
+- Apply suggestions from code review
+- Add guidance for location-relevant safety policies in events
+- Add affiliated programs documentation and scope section
+- Add escalation process for disagreements between CoC WG and Online Community WG
+- 📝 make twitter reference more general
+- Update membership.md
+- Update README.md
+- Update working-group-manual.md
+- 📝 add reference to Djangonaut Space CoC referencing our CoC
+- Rename conferences.md to events.md for broader scope
+- Add transparency report guidelines for conference organizers
+- 📝 document how to handle multi-person reports
+- Add CODEOWNERS for CoC committee
+- 📝 comment out statistics iframe because GitHub doesn't allow them; keep it around for the website
+- 📝 update statistics with a live embed
+- 📝 clarify when reporting process may vary because a current CoC WG member is involved in the reported issue
+- 📝 updated member terms to reflect decision from the February 2026 meeting
+- Update docs with new tracking sheet columns and stats logic
+- 📝 correcting some descriptions around reporting and statistics
+- 📝 update statistics
+- 📝 added 2023 statistics
+- 📝 updated FAQs
+- 📝 change all references to committee to working group
+- 📝 added 2024 and 2025 statistics
+- 📝 consolidating working-group policies into a single manual
+- 📝 reformatting markdown files
+- 📝 add a common sources.md link to all docs
+- 📝 update our membership docs
+- 📝 update our conferences guidelines
+- 📝 update our communications guidelines
+- 📝 update changelog with recent changes and fix heading levels
+- 📝 move Enforcement Ladder to its own file
+- 📝 updates to reporting guide
+- 📝 update the enforcement manual to align with Contributor Covenant 3, their recommended resources, and the lessons the working group has learned
+
+
 ## 2026-02-17: Update changelog
 
 - Use GitHub /contents/ API to create signed commits

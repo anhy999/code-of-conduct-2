@@ -58,6 +58,8 @@ These materials provided structured frameworks for evaluating reports (jurisdict
 
 [Microsoft's Responsible AI Principles](https://opensource.microsoft.com/codeofconduct/) informed our approach to responsible use of AI-generated content.
 
+**License:** [MIT License](https://github.com/microsoft/opensource.microsoft.com/blob/main/LICENSE)
+
 ## Additional Influences
 
 Over the years, we have also learned from:

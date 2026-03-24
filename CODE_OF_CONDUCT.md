@@ -73,7 +73,7 @@ The enforcement ladder includes the following levels:
 
 This enforcement ladder is intended as a guideline. It does not limit the ability of the Code of Conduct Working Group to use their discretion and judgment, in keeping with the best interests of our community.
 
-For complete details about our enforcement process, please see our [Enforcement Guide](enforcement-ladder.md).
+For complete details about our enforcement process, please see our [Enforcement Guide](https://github.com/django/code-of-conduct/blob/main/enforcement-ladder.md).
 
 ## Scope
 

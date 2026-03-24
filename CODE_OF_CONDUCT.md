@@ -137,7 +137,7 @@ These practices support a community built on trust, collaboration, and mutual re
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant, version 3.0](https://www.contributor-covenant.org/version/3/0/). Our documents and policies are adapted from and inspired by a number of [additional sources](sources.md).
+This Code of Conduct is adapted from the [Contributor Covenant, version 3.0](https://www.contributor-covenant.org/version/3/0/). Our documents and policies are adapted from and inspired by a number of [additional sources](https://github.com/django/code-of-conduct/blob/main/sources.md).
 
 ## License
 

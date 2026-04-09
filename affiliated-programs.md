@@ -9,12 +9,13 @@ This document outlines the requirements for becoming an affiliated program or co
 Django-related projects and spaces may ask to designate the Django Code of Conduct Working Group as an escalation point in their own Code of Conduct process. To do so, they must:
 
 1. Adopt their own complementary Code of Conduct
-2. Reach out to [conduct@djangoproject.com](mailto:conduct@djangoproject.com) and request to be added to the Django Code of Conduct's scope
-3. If approved, outline in their reporting procedures that reports may be escalated to the Django Code of Conduct Working Group in the following circumstances:
+2. Designate at least one named Code of Conduct point of contact and provide their individual email address (not a shared group address) to the Django Code of Conduct Working Group to keep on file
+3. Reach out to [conduct@djangoproject.com](mailto:conduct@djangoproject.com) and request to be added to the Django Code of Conduct's scope
+4. If approved, outline in their reporting procedures that reports may be escalated to the Django Code of Conduct Working Group in the following circumstances:
    - The report concerns a member of the project's Code of Conduct Committee
    - The project's Code of Conduct Committee has failed to respond to a report
    - As a point of appeal within 30 days of the original decision
-4. Publish transparency reports at least annually (quarterly preferred) following the guidelines outlined in this document
+5. Publish transparency reports at least annually (quarterly preferred) following the guidelines outlined in this document
 
 Upon approval of a request, the Django Code of Conduct Working Group will add the project or community to the list of affiliated projects and spaces in the [Code of Conduct's scope section](CODE_OF_CONDUCT.md#scope).
 

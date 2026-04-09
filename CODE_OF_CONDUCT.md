@@ -102,6 +102,8 @@ It applies in all official event spaces, including:
 
 It also applies to interactions on official event accounts and platforms, including event hashtags, social media, and communication channels.
 
+Event organizers should refer to our [Event Organizer Support Guide](events.md) for requirements and guidance on implementing this Code of Conduct at in-person events, including designating CoC contacts, handling on-site reports, and publishing event-specific policy extensions.
+
 ### Django Online Spaces
 
 This Code of Conduct applies to all Django online spaces covered by the [Online Community Working Group](https://github.com/django/dsf-working-groups/blob/main/active/online-community.md), including:

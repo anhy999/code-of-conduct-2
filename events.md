@@ -11,6 +11,28 @@ Establishing and enforcing Code of Conduct at events is not easy. Here is how
 Django Code of Conduct Working Group can help event organizers to ensure safe
 environments at events.
 
+## In-Person Event Requirements
+
+All in-person events operating under the Django Code of Conduct must meet the following baseline requirements in addition to the general Code of Conduct. Event organizers are encouraged to publish an event-specific Code of Conduct page that extends this baseline with any additional policies relevant to their venue, location, and format.
+
+### Personal Space and Physical Conduct
+
+All attendees are expected to respect the personal space of others. Physical contact — including handshakes, hugs, or any other touch — requires consent. When in doubt, do not initiate physical contact. Events should communicate this expectation in their attendee-facing materials.
+
+Uninvited or repeated physical contact, following someone from space to space, or blocking someone's ability to leave a conversation are violations of this Code of Conduct.
+
+### Appropriate Items
+
+Organizers are responsible for communicating any restrictions on items brought into event spaces, in accordance with applicable local laws, venue policies, and cultural norms. Additional restrictions may be appropriate based on the nature and context of the event. If you need guidance on establishing item policies for your event, contact the Django CoC Working Group.
+
+### Photography and Recording
+
+Attendees may not photograph or record other individuals without their explicit consent. Events should establish and communicate a clear opt-in or opt-out system (e.g. lanyard color, badge sticker) so that attendees can signal their preferences without having to state them repeatedly. This system should be explained during opening announcements.
+
+### Event-Specific Policies
+
+Organizers are responsible for publishing any event-specific policies (venue rules, local legal requirements, accessibility measures, health and safety protocols) as an extension of this Code of Conduct. These extensions must not reduce the baseline protections above — they may only add to them. If you need help drafting an event-specific policy, contact the Django CoC Working Group.
+
 ## Before the event
 
 - We advise that you share the list of attendees with us such that we are able to
@@ -39,11 +61,32 @@ environments at events.
   and community expectations when developing these policies. If you need guidance
   on implementing location-specific safety measures, please reach out to us.
 
+### Designating Code of Conduct Contacts
+
+Every event must publicly designate at least one named Code of Conduct contact before the event begins. Attendees should be able to identify these people by name (and ideally photo) on the event website, in printed materials, and at the event itself. Each designated contact must publish a direct, individual email address — not a shared group address — so that reporters can choose who to approach based on their comfort level.
+
+The number and structure of contacts should be appropriate to the event's size and context:
+
+- **Conferences (e.g. DjangoCon):** A dedicated Code of Conduct committee of at least two people, independent of the organizing team where possible, with clear contact information published in advance.
+- **Workshops and sprints:** At minimum, the lead organizer or a designated coach must be identified as the CoC contact. If the event is co-located with a larger event, the larger event's CoC team serves as the escalation path.
+
+Contacts should be briefed on the enforcement process and have a clear channel to reach the Django CoC Working Group during the event.
+
 ## During the event
 
 - If you encounter a Code of Conduct violation at your event that needs to be
   addressed immediately, you can reach out to us and we will try to help you
   through the process of resolving it.
+
+### On-Site Reporting
+
+Your designated CoC contacts should be easy for attendees to find and approach. We recommend:
+
+- Announcing CoC contacts and how to reach them at the start of each day.
+- Providing a private, in-person reporting option (a designated quiet location or a scheduled office-hours slot) in addition to any written or email channel.
+- Having contacts wear a visible identifier (lanyard, badge color, etc.) so attendees can find them without having to ask.
+
+When a report is made on-site, the contact should: listen without judgment, take brief notes, reassure the reporter of confidentiality, and decide whether immediate action is needed (asking someone to leave a space, pausing an activity) versus whether the matter can be handled after the fact. Contacts should not investigate or adjudicate alone — they should loop in the rest of the CoC team and, for anything serious, contact the Django CoC Working Group.
 
 ## After the event
 

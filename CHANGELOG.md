@@ -1,5 +1,10 @@
 # Django Code of Conduct Documentation Change Log
 
+## 2026-04-13: Update update-changelog workflow
+
+- Add PR minimum age workflow
+
+
 ## 2026-03-16: Update the policy docs to align with Contributor Covenant 3
 
 - Apply suggestions from code review

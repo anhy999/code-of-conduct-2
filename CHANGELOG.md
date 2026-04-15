@@ -1,5 +1,27 @@
 # Django Code of Conduct Documentation Change Log
 
+## 2026-04-15: Adopt Contributor Covenant 3
+
+- Add in-person event requirements and CoC point of contact guidance
+- Update CODE_OF_CONDUCT.md
+- Update sources.md
+- Apply suggestions from code review
+- Add DSF board as codeowner for CODE_OF_CONDUCT.md
+- merging docs/update-process-docs
+- 📝 remove weapons policysince we don't host in-person events directly this makes more sense as guidance for affiliated events so I'll move it there in the process-docs PR
+- Add escalation process for disagreements between CoC WG and Online Community WG
+- 📝 make twitter reference more general
+- Update membership.md
+- Update README.md
+- Update working-group-manual.md
+- 📝 add reference to Djangonaut Space CoC referencing our CoC
+- Rename conferences.md to events.md for broader scope
+- Add transparency report guidelines for conference organizers
+- Add bad-faith reporting to Other Restrictions
+- Uncomment FAQ section explaining adoption of Contributor Covenant 3
+- Adopting Contributor Covenant 3
+
+
 ## 2026-04-13: Update update-changelog workflow
 
 - Add PR minimum age workflow

@@ -78,7 +78,7 @@ The Code of Conduct applies in official event spaces, including:
 - Event video hosting platforms and live streams
 - Official event communication channels (Slack, Discord, etc.)
 
-Django-sponsored events (such as DjangoCon conferences) are required to have their own Code of Conduct and Code of Conduct team. Event organizers will enforce the code throughout the event. Issues at sponsored events can be escalated to the Django Code of Conduct Working Group by:
+Django-sponsored events (such as DjangoCon conferences) are required to have their own Code of Conduct and Code of Conduct team, and must designate at least one named Code of Conduct point of contact as outlined in [events.md](events.md). Event organizers will enforce the code throughout the event. Issues at sponsored events can be escalated to the Django Code of Conduct Working Group by:
 
 - The event's Code of Conduct team
 - The reporter: The person/group who submits the complaint
@@ -96,6 +96,7 @@ This Code of Conduct applies to the following online spaces managed by the Djang
 - GitHub repositories, issue trackers, and pull requests under Django organizations
 - Official Django social media accounts
 - Any other online space administered by the Django project or Django Software Foundation
+- Any other space where their Code of Conduct specifically states that the Django Code of Conduct applies (e.g., [Djangonaut Space](https://github.com/djangonaut-space/program/blob/main/CODE_OF_CONDUCT.md#what-if-your-report-concerns-a-possible-violation-by-an-organizer))
 
 This Code of Conduct applies to the following people in Django online spaces:
 
@@ -112,7 +113,7 @@ Each online space is encouraged to provide:
 
 ### Affiliated Projects and Communities
 
-Django-related projects and spaces may ask to designate the Django Code of Conduct Working Group as an escalation point in their own Code of Conduct process. To become an affiliated program, projects must adopt their own complementary Code of Conduct, request inclusion via [conduct@djangoproject.com](mailto:conduct@djangoproject.com), outline escalation procedures in their reporting process, and publish regular transparency reports.
+Django-related projects and spaces may ask to designate the Django Code of Conduct Working Group as an escalation point in their own Code of Conduct process. To become an affiliated program, projects must adopt their own complementary Code of Conduct, designate a named Code of Conduct point of contact and provide their individual email address to the working group to keep on file, request inclusion via [conduct@djangoproject.com](mailto:conduct@djangoproject.com), outline escalation procedures in their reporting process, and publish regular transparency reports.
 
 For complete requirements, escalation criteria, and transparency reporting guidelines, see [affiliated-programs.md](affiliated-programs.md).
 
@@ -410,11 +411,12 @@ Records are retained in accordance with the Django Software Foundation's data re
 
 ### Data Storage and Access
 
-Records are currently stored in three locations:
+Records are currently stored in four locations:
 
 1. **Status Tracking Spreadsheet:** Contains anonymized case data (Case Code Names, Person Code Names, Status).
 2. **Person Identity Key:** A separate, highly restricted spreadsheet mapping "Real Names" to "Person Code Names" and tracking report counts and highest recorded consequence.
 3. **Report Documentation:** Individual Google Docs for each case.
+4. **Affiliated Programs Register:** A spreadsheet in the shared Google Drive listing all affiliated programs and communities along with the name and individual email address of each program's designated Code of Conduct point of contact. This register must be kept up to date as programs join, update their contact, or lose affiliated status.
 
 All documents are shared only between members of the working group. The working group insists on not sharing the records outside the members due to confidentiality of information. Violating this will result in removal of the member from the working group.
 
